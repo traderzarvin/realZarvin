@@ -1,5 +1,5 @@
 ![photo_5933548747818648830_y](https://github.com/user-attachments/assets/13f6f849-eebb-45c8-be79-32ed1f5258f7)
-# Traderzarin| founder ShopQuik, co-founder Midas Labs
+# Traderzarvin | founder ShopQuik, co-founder Midas Labs
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
