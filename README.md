@@ -22,7 +22,7 @@ Beyond trading, I’m an experimenter and builder. I don’t settle for theoreti
 
 I don’t just participate in onchain markets—I work to reshape them.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realZarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=traderzarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Stay Hungry, Stay Foolish — Steve Jobs
 ---
