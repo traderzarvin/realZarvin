@@ -18,7 +18,7 @@ As a memecoin trader, I’ve learned to detach from the noise and gamify the pro
 
 Beyond trading, I’m an experimenter and builder. I don’t settle for theoretical edges—I test, iterate, and optimize until I find what actually works. Whether it’s through automation, new methodologies, or innovative frameworks, I’m always looking for ways to stay ahead of the curve and help others do the same.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=realZarvin&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=traderzarvin&theme=dark&hide_border=false)
 
 I don’t just participate in onchain markets—I work to reshape them.
 
